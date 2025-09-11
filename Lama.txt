@@ -1,0 +1,6 @@
+I learned in GitHub:
+git clone 
+git status 
+git pull
+git push 
+git checkout
